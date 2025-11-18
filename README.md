@@ -51,6 +51,7 @@ return 0;
 
 ## OUTPUT:
 
+<img width="3763" height="29" alt="image" src="https://github.com/user-attachments/assets/f09d2cff-a374-4bd6-8eab-1e25233ce0c5" />
 
 
 ## RESULT :
