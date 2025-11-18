@@ -48,10 +48,9 @@ return 0;
 }
 ```
 
-
 ## OUTPUT:
 
-<img width="3763" height="29" alt="image" src="https://github.com/user-attachments/assets/f09d2cff-a374-4bd6-8eab-1e25233ce0c5" />
+<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/1305f336-7122-4014-a5bb-70336cc1389a" />
 
 
 ## RESULT :
