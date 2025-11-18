@@ -7,7 +7,7 @@ To implement the simple substitution technique named Caesar cipher using C langu
 
 STEP-1: Read the plain text from the user.
 
-STEP-2: Read the key value from the user.
+STEP-2: Read the key value from the user. 
 
 STEP-3: If the key is positive then encrypt the text by adding the key with each character in the plain text.
 
